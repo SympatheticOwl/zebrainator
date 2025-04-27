@@ -1,0 +1,352 @@
+{
+    "Elephant:0df66f": {
+        "timestamp": [
+            "77.69",
+            "78.70",
+            "79.71"
+        ],
+        "gps_coordinates": [
+            [
+                "-111.5038",
+                "-70.17544"
+            ],
+            [
+                "-112.1093",
+                "-71.56147"
+            ],
+            [
+                "-112.7127",
+                "-72.94284"
+            ]
+        ],
+        "vitals": [
+            {
+                "oxygen_saturation": "0.96",
+                "heart_rate": "200"
+            },
+            {
+                "oxygen_saturation": "0.96",
+                "heart_rate": "200"
+            },
+            {
+                "oxygen_saturation": "0.96",
+                "heart_rate": "200"
+            }
+        ]
+    },
+    "Zebra:9124fe": {
+        "timestamp": [
+            "77.69",
+            "78.70",
+            "79.71"
+        ],
+        "gps_coordinates": [
+            [
+                "187.0617",
+                "-222.3053"
+            ],
+            [
+                "185.562",
+                "-223.3283"
+            ],
+            [
+                "184.0764",
+                "-224.3418"
+            ]
+        ],
+        "vitals": [
+            {
+                "oxygen_saturation": "0.96",
+                "heart_rate": "200"
+            },
+            {
+                "oxygen_saturation": "0.96",
+                "heart_rate": "200"
+            },
+            {
+                "oxygen_saturation": "0.96",
+                "heart_rate": "200"
+            }
+        ]
+    },
+    "Zebra:6bd67c": {
+        "timestamp": [
+            "77.69",
+            "78.70",
+            "79.71"
+        ],
+        "gps_coordinates": [
+            [
+                "152.1405",
+                "-245.5679"
+            ],
+            [
+                "150.6463",
+                "-246.5872"
+            ],
+            [
+                "149.1542",
+                "-247.6051"
+            ]
+        ],
+        "vitals": [
+            {
+                "oxygen_saturation": "0.96",
+                "heart_rate": "200"
+            },
+            {
+                "oxygen_saturation": "0.96",
+                "heart_rate": "200"
+            },
+            {
+                "oxygen_saturation": "0.96",
+                "heart_rate": "200"
+            }
+        ]
+    },
+    "Zebra:421b06": {
+        "timestamp": [
+            "77.69",
+            "78.70",
+            "79.71"
+        ],
+        "gps_coordinates": [
+            [
+                "160.5558",
+                "-242.2145"
+            ],
+            [
+                "159.066",
+                "-243.2394"
+            ],
+            [
+                "157.5742",
+                "-244.2569"
+            ]
+        ],
+        "vitals": [
+            {
+                "oxygen_saturation": "0.96",
+                "heart_rate": "200"
+            },
+            {
+                "oxygen_saturation": "0.96",
+                "heart_rate": "200"
+            },
+            {
+                "oxygen_saturation": "0.96",
+                "heart_rate": "200"
+            }
+        ]
+    },
+    "Zebra:181d81": {
+        "timestamp": [
+            "77.69",
+            "78.70",
+            "79.71"
+        ],
+        "gps_coordinates": [
+            [
+                "161.0322",
+                "-245.1776"
+            ],
+            [
+                "159.5326",
+                "-246.2"
+            ],
+            [
+                "158.0328",
+                "-247.2221"
+            ]
+        ],
+        "vitals": [
+            {
+                "oxygen_saturation": "0.96",
+                "heart_rate": "200"
+            },
+            {
+                "oxygen_saturation": "0.96",
+                "heart_rate": "200"
+            },
+            {
+                "oxygen_saturation": "0.96",
+                "heart_rate": "200"
+            }
+        ]
+    },
+    "Zebra:96c179": {
+        "timestamp": [
+            "77.69",
+            "78.70",
+            "79.71"
+        ],
+        "gps_coordinates": [
+            [
+                "147.6758",
+                "-252.2169"
+            ],
+            [
+                "146.1765",
+                "-253.2397"
+            ],
+            [
+                "144.6772",
+                "-254.2625"
+            ]
+        ],
+        "vitals": [
+            {
+                "oxygen_saturation": "0.96",
+                "heart_rate": "200"
+            },
+            {
+                "oxygen_saturation": "0.96",
+                "heart_rate": "200"
+            },
+            {
+                "oxygen_saturation": "0.96",
+                "heart_rate": "200"
+            }
+        ]
+    },
+    "Zebra:87c79b": {
+        "timestamp": [
+            "77.69",
+            "78.70",
+            "79.71"
+        ],
+        "gps_coordinates": [
+            [
+                "147.4867",
+                "-249.4033"
+            ],
+            [
+                "146.0291",
+                "-250.4919"
+            ],
+            [
+                "144.5258",
+                "-251.4967"
+            ]
+        ],
+        "vitals": [
+            {
+                "oxygen_saturation": "0.96",
+                "heart_rate": "200"
+            },
+            {
+                "oxygen_saturation": "0.96",
+                "heart_rate": "200"
+            },
+            {
+                "oxygen_saturation": "0.96",
+                "heart_rate": "200"
+            }
+        ]
+    },
+    "Lion:11c27f": {
+        "timestamp": [
+            "77.69",
+            "78.70",
+            "79.71"
+        ],
+        "gps_coordinates": [
+            [
+                "155.8546",
+                "-199.8037"
+            ],
+            [
+                "154.8645",
+                "-200.9637"
+            ],
+            [
+                "153.8826",
+                "-202.1141"
+            ]
+        ],
+        "vitals": [
+            {
+                "oxygen_saturation": "0.96",
+                "heart_rate": "200"
+            },
+            {
+                "oxygen_saturation": "0.96",
+                "heart_rate": "200"
+            },
+            {
+                "oxygen_saturation": "0.96",
+                "heart_rate": "200"
+            }
+        ]
+    },
+    "Lion:6e3a94": {
+        "timestamp": [
+            "77.69",
+            "78.70",
+            "79.71"
+        ],
+        "gps_coordinates": [
+            [
+                "175.7433",
+                "263.7395"
+            ],
+            [
+                "176.2902",
+                "262.3294"
+            ],
+            [
+                "176.8372",
+                "260.9193"
+            ]
+        ],
+        "vitals": [
+            {
+                "oxygen_saturation": "0.96",
+                "heart_rate": "200"
+            },
+            {
+                "oxygen_saturation": "0.96",
+                "heart_rate": "200"
+            },
+            {
+                "oxygen_saturation": "0.96",
+                "heart_rate": "200"
+            }
+        ]
+    },
+    "Lion:af84c1": {
+        "timestamp": [
+            "77.69",
+            "78.70",
+            "79.71"
+        ],
+        "gps_coordinates": [
+            [
+                "335.7094",
+                "303.5993"
+            ],
+            [
+                "336.7028",
+                "302.4587"
+            ],
+            [
+                "337.6879",
+                "301.3275"
+            ]
+        ],
+        "vitals": [
+            {
+                "oxygen_saturation": "0.96",
+                "heart_rate": "200"
+            },
+            {
+                "oxygen_saturation": "0.96",
+                "heart_rate": "200"
+            },
+            {
+                "oxygen_saturation": "0.96",
+                "heart_rate": "200"
+            }
+        ]
+    }
+}

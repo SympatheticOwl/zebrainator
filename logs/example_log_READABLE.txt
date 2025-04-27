@@ -1,0 +1,695 @@
+=============== Zebra:58b55b LOG ===============
+
+-- Timestamp: 1244.87
+
+"air_quality": 1
+"temperature": 1
+"oxygen_saturation": 0.96, "heart_rate": 200
+"location": [-328.3622,-317.3131]
+"humidity": 1, "temperature": 1
+
+-- Timestamp: 1245.88
+
+"air_quality": 1
+"temperature": 1
+"oxygen_saturation": 0.96, "heart_rate": 200
+"location": [-328.3622,-317.3131]
+"humidity": 1, "temperature": 1
+
+-- Timestamp: 1246.89
+
+"air_quality": 1
+"temperature": 1
+"oxygen_saturation": 0.96, "heart_rate": 200
+"location": [-328.3622,-317.3131]
+"humidity": 1, "temperature": 1
+
+-- Timestamp: 1247.89
+
+"air_quality": 1
+"temperature": 1
+"oxygen_saturation": 0.96, "heart_rate": 200
+"location": [-328.3622,-317.3131]
+"humidity": 1, "temperature": 1
+
+-- Timestamp: 1248.90
+
+"air_quality": 1
+"temperature": 1
+"oxygen_saturation": 0.96, "heart_rate": 200
+"location": [-328.3622,-317.3131]
+"humidity": 1, "temperature": 1
+
+=============== Zebra:bbae03 LOG ===============
+
+-- Timestamp: 1244.87
+
+"air_quality": 1
+"temperature": 1
+"oxygen_saturation": 0.99, "heart_rate": 40
+"location": [-208.149,-197.9731]
+"humidity": 1, "temperature": 1
+
+-- Timestamp: 1245.88
+
+"air_quality": 1
+"temperature": 1
+"oxygen_saturation": 0.99, "heart_rate": 40
+"location": [-208.2392,-195.6004]
+"humidity": 1, "temperature": 1
+
+-- Timestamp: 1246.89
+
+"air_quality": 1
+"temperature": 1
+"oxygen_saturation": 0.99, "heart_rate": 40
+"location": [-208.2392,-195.6004]
+"humidity": 1, "temperature": 1
+
+-- Timestamp: 1247.89
+
+"air_quality": 1
+"temperature": 1
+"oxygen_saturation": 0.99, "heart_rate": 40
+"location": [-208.2392,-195.6004]
+"humidity": 1, "temperature": 1
+
+-- Timestamp: 1248.90
+
+"air_quality": 1
+"temperature": 1
+"oxygen_saturation": 0.96, "heart_rate": 200
+"location": [-208.9129,-197.9885]
+"humidity": 1, "temperature": 1
+
+=============== Zebra:016702 LOG ===============
+
+-- Timestamp: 1247.89
+
+"air_quality": 1
+"temperature": 1
+"oxygen_saturation": 0.96, "heart_rate": 200
+"location": [-215.3203,-200.3284]
+"humidity": 1, "temperature": 1
+
+-- Timestamp: 1248.90
+
+"air_quality": 1
+"temperature": 1
+"oxygen_saturation": 0.96, "heart_rate": 200
+"location": [-215.3203,-200.3284]
+"humidity": 1, "temperature": 1
+
+-- Timestamp: 1249.91
+
+"air_quality": 1
+"temperature": 1
+"oxygen_saturation": 0.96, "heart_rate": 200
+"location": [-215.3203,-200.3284]
+"humidity": 1, "temperature": 1
+
+-- Timestamp: 1250.91
+
+"air_quality": 1
+"temperature": 1
+"oxygen_saturation": 0.96, "heart_rate": 200
+"location": [-215.3203,-200.3284]
+"humidity": 1, "temperature": 1
+
+-- Timestamp: 1251.92
+
+"air_quality": 1
+"temperature": 1
+"oxygen_saturation": 0.96, "heart_rate": 200
+"location": [-215.3203,-200.3284]
+"humidity": 1, "temperature": 1
+
+=============== Zebra:8ed6b9 LOG ===============
+
+-- Timestamp: 1253.93
+
+"air_quality": 1
+"temperature": 1
+"oxygen_saturation": 0.99, "heart_rate": 40
+"location": [-213.1048,-193.8772]
+"humidity": 1, "temperature": 1
+
+-- Timestamp: 1254.94
+
+"air_quality": 1
+"temperature": 1
+"oxygen_saturation": 0.99, "heart_rate": 40
+"location": [-213.1048,-193.8772]
+"humidity": 1, "temperature": 1
+
+-- Timestamp: 1255.94
+
+"air_quality": 1
+"temperature": 1
+"oxygen_saturation": 0.99, "heart_rate": 40
+"location": [-213.1048,-193.8772]
+"humidity": 1, "temperature": 1
+
+-- Timestamp: 1256.95
+
+"air_quality": 1
+"temperature": 1
+"oxygen_saturation": 0.99, "heart_rate": 40
+"location": [-211.7827,-193.1407]
+"humidity": 1, "temperature": 1
+
+-- Timestamp: 1257.96
+
+"air_quality": 1
+"temperature": 1
+"oxygen_saturation": 0.99, "heart_rate": 40
+"location": [-211.7827,-193.1407]
+"humidity": 1, "temperature": 1
+
+=============== Zebra:adc48a LOG ===============
+
+-- Timestamp: 1276.10
+
+"air_quality": 1
+"temperature": 1
+"oxygen_saturation": 0.96, "heart_rate": 200
+"location": [-255.8041,234.6704]
+"humidity": 1, "temperature": 1
+
+-- Timestamp: 1277.11
+
+"air_quality": 1
+"temperature": 1
+"oxygen_saturation": 0.96, "heart_rate": 200
+"location": [-255.8041,234.6704]
+"humidity": 1, "temperature": 1
+
+-- Timestamp: 1278.11
+
+"air_quality": 1
+"temperature": 1
+"oxygen_saturation": 0.96, "heart_rate": 200
+"location": [-255.8041,234.6704]
+"humidity": 1, "temperature": 1
+
+-- Timestamp: 1279.12
+
+"air_quality": 1
+"temperature": 1
+"oxygen_saturation": 0.96, "heart_rate": 200
+"location": [-255.8041,234.6704]
+"humidity": 1, "temperature": 1
+
+-- Timestamp: 1280.12
+
+"air_quality": 1
+"temperature": 1
+"oxygen_saturation": 0.96, "heart_rate": 200
+"location": [-255.8041,234.6704]
+"humidity": 1, "temperature": 1
+
+=============== Zebra:ba319e LOG ===============
+
+-- Timestamp: 1289.18
+
+"air_quality": 1
+"temperature": 1
+"oxygen_saturation": 0.98, "heart_rate": 60
+"location": [-93.35944,182.2514]
+"humidity": 1, "temperature": 1
+
+-- Timestamp: 1290.19
+
+"air_quality": 1
+"temperature": 1
+"oxygen_saturation": 0.98, "heart_rate": 60
+"location": [-93.66904,180.463]
+"humidity": 1, "temperature": 1
+
+-- Timestamp: 1291.20
+
+"air_quality": 1
+"temperature": 1
+"oxygen_saturation": 0.98, "heart_rate": 60
+"location": [-93.97733,178.6822]
+"humidity": 1, "temperature": 1
+
+-- Timestamp: 1292.20
+
+"air_quality": 1
+"temperature": 1
+"oxygen_saturation": 0.98, "heart_rate": 60
+"location": [-94.2857,176.9009]
+"humidity": 1, "temperature": 1
+
+-- Timestamp: 1293.21
+
+"air_quality": 1
+"temperature": 1
+"oxygen_saturation": 0.98, "heart_rate": 60
+"location": [-94.59529,175.1126]
+"humidity": 1, "temperature": 1
+
+=============== Zebra:c9ebb2 LOG ===============
+
+-- Timestamp: 1293.21
+
+"air_quality": 1
+"temperature": 1
+"oxygen_saturation": 0.98, "heart_rate": 60
+"location": [-95.76279,184.5307]
+"humidity": 1, "temperature": 1
+
+-- Timestamp: 1294.22
+
+"air_quality": 1
+"temperature": 1
+"oxygen_saturation": 0.98, "heart_rate": 60
+"location": [-96.0724,182.7423]
+"humidity": 1, "temperature": 1
+
+-- Timestamp: 1295.22
+
+"air_quality": 1
+"temperature": 1
+"oxygen_saturation": 0.98, "heart_rate": 60
+"location": [-96.382,180.9539]
+"humidity": 1, "temperature": 1
+
+-- Timestamp: 1296.23
+
+"air_quality": 1
+"temperature": 1
+"oxygen_saturation": 0.98, "heart_rate": 60
+"location": [-96.69161,179.1654]
+"humidity": 1, "temperature": 1
+
+-- Timestamp: 1297.24
+
+"air_quality": 1
+"temperature": 1
+"oxygen_saturation": 0.98, "heart_rate": 60
+"location": [-97.0012,177.3771]
+"humidity": 1, "temperature": 1
+
+=============== Zebra:36377f LOG ===============
+
+-- Timestamp: 1294.22
+
+"air_quality": 1
+"temperature": 1
+"oxygen_saturation": 0.98, "heart_rate": 60
+"location": [-92.27826,185.4063]
+"humidity": 1, "temperature": 1
+
+-- Timestamp: 1295.22
+
+"air_quality": 1
+"temperature": 1
+"oxygen_saturation": 0.98, "heart_rate": 60
+"location": [-92.58785,183.6179]
+"humidity": 1, "temperature": 1
+
+-- Timestamp: 1296.23
+
+"air_quality": 1
+"temperature": 1
+"oxygen_saturation": 0.98, "heart_rate": 60
+"location": [-92.89747,181.8294]
+"humidity": 1, "temperature": 1
+
+-- Timestamp: 1297.24
+
+"air_quality": 1
+"temperature": 1
+"oxygen_saturation": 0.98, "heart_rate": 60
+"location": [-93.20705,180.0411]
+"humidity": 1, "temperature": 1
+
+-- Timestamp: 1298.25
+
+"air_quality": 1
+"temperature": 1
+"oxygen_saturation": 0.98, "heart_rate": 60
+"location": [-93.51562,178.2586]
+"humidity": 1, "temperature": 1
+
+=============== Lion:891a07 LOG ===============
+
+-- Timestamp: 1311.35
+
+"air_quality": 1
+"temperature": 1
+"oxygen_saturation": 0.98, "heart_rate": 90
+"location": [-178.2961,-106.4875]
+"humidity": 1, "temperature": 1
+
+-- Timestamp: 1312.35
+
+"air_quality": 1
+"temperature": 1
+"oxygen_saturation": 0.98, "heart_rate": 90
+"location": [-176.8916,-107.0525]
+"humidity": 1, "temperature": 1
+
+-- Timestamp: 1313.35
+
+"air_quality": 1
+"temperature": 1
+"oxygen_saturation": 0.98, "heart_rate": 90
+"location": [-175.5,-107.6123]
+"humidity": 1, "temperature": 1
+
+-- Timestamp: 1314.35
+
+"air_quality": 1
+"temperature": 1
+"oxygen_saturation": 0.98, "heart_rate": 90
+"location": [-174.1084,-108.1722]
+"humidity": 1, "temperature": 1
+
+-- Timestamp: 1315.36
+
+"air_quality": 1
+"temperature": 1
+"oxygen_saturation": 0.98, "heart_rate": 90
+"location": [-172.7059,-108.7364]
+"humidity": 1, "temperature": 1
+
+=============== Elephant:7e075d LOG ===============
+
+-- Timestamp: 1319.38
+
+"air_quality": 1
+"temperature": 1
+"oxygen_saturation": 0.98, "heart_rate": 45
+"location": [-110.7878,-84.89966]
+"humidity": 1, "temperature": 1
+
+-- Timestamp: 1320.39
+
+"air_quality": 1
+"temperature": 1
+"oxygen_saturation": 0.98, "heart_rate": 45
+"location": [-109.8836,-86.1059]
+"humidity": 1, "temperature": 1
+
+-- Timestamp: 1321.39
+
+"air_quality": 1
+"temperature": 1
+"oxygen_saturation": 0.98, "heart_rate": 45
+"location": [-108.9764,-87.31602]
+"humidity": 1, "temperature": 1
+
+-- Timestamp: 1322.40
+
+"air_quality": 1
+"temperature": 1
+"oxygen_saturation": 0.98, "heart_rate": 45
+"location": [-108.07,-88.52515]
+"humidity": 1, "temperature": 1
+
+-- Timestamp: 1323.41
+
+"air_quality": 1
+"temperature": 1
+"oxygen_saturation": 0.98, "heart_rate": 45
+"location": [-107.1619,-89.73643]
+"humidity": 1, "temperature": 1
+
+=============== Elephant:ea6686 LOG ===============
+
+-- Timestamp: 1353.60
+
+"location": [-103.8483,-30.62343]
+"oxygen_saturation": 0.98, "heart_rate": 45
+
+-- Timestamp: 1354.60
+
+"location": [-102.8528,-31.7622]
+"oxygen_saturation": 0.98, "heart_rate": 45
+
+-- Timestamp: 1355.61
+
+"location": [-102.532,-32.12922]
+"oxygen_saturation": 0.99, "heart_rate": 30
+
+-- Timestamp: 1356.62
+
+"location": [-102.532,-32.12922]
+"oxygen_saturation": 0.99, "heart_rate": 30
+
+-- Timestamp: 1357.62
+
+"location": [-102.532,-32.12922]
+"oxygen_saturation": 0.99, "heart_rate": 30
+
+=============== Elephant:86839f LOG ===============
+
+-- Timestamp: 1353.60
+
+"air_quality": 1
+"temperature": 1
+"oxygen_saturation": 0.98, "heart_rate": 45
+"location": [179.6887,193.6438]
+"humidity": 1, "temperature": 1
+
+-- Timestamp: 1354.60
+
+"air_quality": 1
+"temperature": 1
+"oxygen_saturation": 0.98, "heart_rate": 45
+"location": [180.6915,192.5116]
+"humidity": 1, "temperature": 1
+
+-- Timestamp: 1355.61
+
+"air_quality": 1
+"temperature": 1
+"oxygen_saturation": 0.98, "heart_rate": 45
+"location": [181.6935,191.3804]
+"humidity": 1, "temperature": 1
+
+-- Timestamp: 1356.62
+
+"air_quality": 1
+"temperature": 1
+"oxygen_saturation": 0.98, "heart_rate": 45
+"location": [182.6923,190.2527]
+"humidity": 1, "temperature": 1
+
+-- Timestamp: 1357.62
+
+"air_quality": 1
+"temperature": 1
+"oxygen_saturation": 0.98, "heart_rate": 45
+"location": [183.6918,189.1243]
+"humidity": 1, "temperature": 1
+
+=============== Lion:59479c LOG ===============
+
+-- Timestamp: 1355.61
+
+"location": [-84.22206,87.84212]
+"oxygen_saturation": 0.98, "heart_rate": 90
+
+-- Timestamp: 1356.62
+
+"location": [-83.44733,89.13404]
+"oxygen_saturation": 0.98, "heart_rate": 90
+
+-- Timestamp: 1357.62
+
+"location": [-82.67208,90.42683]
+"oxygen_saturation": 0.98, "heart_rate": 90
+
+-- Timestamp: 1358.63
+
+"location": [-81.89421,91.72399]
+"oxygen_saturation": 0.98, "heart_rate": 90
+
+-- Timestamp: 1359.64
+
+"location": [-81.11634,93.02114]
+"oxygen_saturation": 0.98, "heart_rate": 90
+
+=============== Elephant:bc5b6c LOG ===============
+
+-- Timestamp: 1356.62
+
+"location": [239.6637,-282.0851]
+"oxygen_saturation": 0.98, "heart_rate": 45
+
+-- Timestamp: 1357.62
+
+"location": [240.4875,-283.3475]
+"oxygen_saturation": 0.98, "heart_rate": 45
+
+-- Timestamp: 1358.63
+
+"location": [241.3142,-284.6141]
+"oxygen_saturation": 0.98, "heart_rate": 45
+
+-- Timestamp: 1359.64
+
+"location": [242.1408,-285.8807]
+"oxygen_saturation": 0.98, "heart_rate": 45
+
+-- Timestamp: 1360.65
+
+"location": [242.9675,-287.1474]
+"oxygen_saturation": 0.98, "heart_rate": 45
+
+=============== Lion:10a6bf LOG ===============
+
+-- Timestamp: 1359.64
+
+"location": [-20.01991,109.6176]
+"oxygen_saturation": 0.98, "heart_rate": 90
+
+-- Timestamp: 1360.65
+
+"location": [-19.97985,108.1056]
+"oxygen_saturation": 0.98, "heart_rate": 90
+
+-- Timestamp: 1361.65
+
+"location": [-19.93979,106.5937]
+"oxygen_saturation": 0.98, "heart_rate": 90
+
+-- Timestamp: 1362.65
+
+"location": [-19.90009,105.0955]
+"oxygen_saturation": 0.98, "heart_rate": 90
+
+-- Timestamp: 1363.66
+
+"location": [-19.86,103.5822]
+"oxygen_saturation": 0.98, "heart_rate": 90
+
+=============== Lion:d1a31a LOG ===============
+
+-- Timestamp: 1362.65
+
+"air_quality": 1
+"temperature": 1
+"oxygen_saturation": 0.98, "heart_rate": 90
+"location": [212.4156,-178.0585]
+"humidity": 1, "temperature": 1
+
+-- Timestamp: 1363.66
+
+"air_quality": 1
+"temperature": 1
+"oxygen_saturation": 0.98, "heart_rate": 90
+"location": [210.9299,-178.3491]
+"humidity": 1, "temperature": 1
+
+-- Timestamp: 1364.67
+
+"air_quality": 1
+"temperature": 1
+"oxygen_saturation": 0.98, "heart_rate": 90
+"location": [209.4467,-178.6392]
+"humidity": 1, "temperature": 1
+
+-- Timestamp: 1365.68
+
+"air_quality": 1
+"temperature": 1
+"oxygen_saturation": 0.98, "heart_rate": 90
+"location": [207.9624,-178.9295]
+"humidity": 1, "temperature": 1
+
+-- Timestamp: 1366.69
+
+"air_quality": 1
+"temperature": 1
+"oxygen_saturation": 0.98, "heart_rate": 90
+"location": [206.4768,-179.22]
+"humidity": 1, "temperature": 1
+
+=============== Elephant:dadb7b LOG ===============
+
+-- Timestamp: 1367.69
+
+"air_quality": 1
+"temperature": 1
+"oxygen_saturation": 0.98, "heart_rate": 45
+"location": [287.2735,-171.6063]
+"humidity": 1, "temperature": 1
+
+-- Timestamp: 1368.70
+
+"air_quality": 1
+"temperature": 1
+"oxygen_saturation": 0.98, "heart_rate": 45
+"location": [288.7077,-172.066]
+"humidity": 1, "temperature": 1
+
+-- Timestamp: 1369.70
+
+"air_quality": 1
+"temperature": 1
+"oxygen_saturation": 0.98, "heart_rate": 45
+"location": [290.1493,-172.5281]
+"humidity": 1, "temperature": 1
+
+-- Timestamp: 1370.71
+
+"air_quality": 1
+"temperature": 1
+"oxygen_saturation": 0.98, "heart_rate": 45
+"location": [291.5883,-172.9894]
+"humidity": 1, "temperature": 1
+
+-- Timestamp: 1371.72
+
+"air_quality": 1
+"temperature": 1
+"oxygen_saturation": 0.98, "heart_rate": 45
+"location": [293.0299,-173.4515]
+"humidity": 1, "temperature": 1
+
+=============== Lion:ad9926 LOG ===============
+
+-- Timestamp: 1400.93
+
+"air_quality": 1
+"temperature": 1
+"oxygen_saturation": 0.98, "heart_rate": 90
+"location": [212.6247,142.5887]
+"humidity": 1, "temperature": 1
+
+-- Timestamp: 1401.93
+
+"air_quality": 1
+"temperature": 1
+"oxygen_saturation": 0.98, "heart_rate": 90
+"location": [213.0335,144.0306]
+"humidity": 1, "temperature": 1
+
+-- Timestamp: 1402.94
+
+"air_quality": 1
+"temperature": 1
+"oxygen_saturation": 0.98, "heart_rate": 90
+"location": [213.4464,145.4872]
+"humidity": 1, "temperature": 1
+
+-- Timestamp: 1403.95
+
+"air_quality": 1
+"temperature": 1
+"oxygen_saturation": 0.98, "heart_rate": 90
+"location": [213.8586,146.9409]
+"humidity": 1, "temperature": 1
+
+-- Timestamp: 1404.95
+
+"air_quality": 1
+"temperature": 1
+"oxygen_saturation": 0.98, "heart_rate": 90
+"location": [214.2715,148.3974]
+"humidity": 1, "temperature": 1
