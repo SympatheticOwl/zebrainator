@@ -143,10 +143,9 @@ def main():
     #                     help='Time window in minutes for averaging data points (default: 2.0)')
     # args = parser.parse_args()
 
-    # file = "simulation_2025_4_25_7_30_21"
-    file = "temp"
-    infile_path = f"out/{file}.json"
-    outfile_path = f"time_data"
+    file = "example_data"
+    infile_path = f"parsed_logs/{file}.json"
+    outfile_path = f"parsed_logs_time_data"
     if not os.path.exists(outfile_path):
         os.makedirs(outfile_path)
 
